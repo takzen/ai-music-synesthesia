@@ -19,10 +19,3 @@ __pycache__/
 
 # macOS specific files
 .DS_Store
-
-# Windows specific files
-Thumbs.db
-
-# others
-
-opis.txt

@@ -1,0 +1,3 @@
+ai-music-synesthesia
+Opis na GitHub
+An AI-powered application that generates original music from images. It uses Google's Gemini 2.5 Pro to analyze visual features and create descriptive prompts for a music generation model.
